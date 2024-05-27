@@ -115,3 +115,7 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+**Name:** Grace Olagunju
+**Email:** olagrace@nmsu.edu  
+**GitHub ID:** #170056958
+## Image ![RACE] (C:/Users/olagrace/OneDrive - New Mexico State University/Desktop/RACE.jpg)

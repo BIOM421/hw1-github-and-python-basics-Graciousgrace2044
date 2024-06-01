@@ -1,4 +1,4 @@
 Name: Grace Olagunju
-Email: olagrace@nmsu.edu
+Email: graceeh123@gmail.com
 Github ID: Graciousgrace2044
-Picture: ![] (https://www.britannica.com/place/Israel)
+Picture: ![] (https://www.britannica.com/place/Israel)            
